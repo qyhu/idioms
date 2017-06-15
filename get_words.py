@@ -39,7 +39,7 @@ def get_ItemSite():#手工把每个字母开头的页面数统计下来
     itemSite["W"] = 13
     itemSite["X"] = 16
     itemSite["Y"] = 35
-    itemSite["A"] = 21
+    itemSite["Z"] = 21
     return itemSite
 
 if __name__=="__main__":
